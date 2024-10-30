@@ -1,0 +1,108 @@
+# Copyright (C) 2022 Kaypay Vietnam
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kaypay Payment Gateway 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kaypay\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-23T07:47:51+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: kaypay-text\n"
+
+#. Plugin Name of the plugin
+msgid "Kaypay Payment Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://docs.kaypay.vn"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce payment method to Buy Now Pay Later with Kaypay."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kaypay Vietnam"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://kaypay.vn"
+msgstr ""
+
+#: admin/plugins.php:10
+msgid "Settings"
+msgstr ""
+
+#: payment/api.php:26
+#: payment/api.php:99
+#: payment/gateway.php:25
+msgid "Kaypay"
+msgstr ""
+
+#: payment/api.php:27
+#: payment/gateway.php:32
+msgid "Buy Now Pay Later with Kaypay"
+msgstr ""
+
+#: payment/api.php:87
+msgid "Kaypay payment succeeded"
+msgstr ""
+
+#: payment/api.php:88
+msgid "Kaypay Order"
+msgstr ""
+
+#: payment/api.php:97
+msgid "Kaypay payment failed"
+msgstr ""
+
+#. translators: %s: Total amount.
+#: payment/api.php:126
+msgid "Kaypay: payment amounts do not match (%s)."
+msgstr ""
+
+#: payment/gateway.php:18
+msgid "Enable Kaypay payment method"
+msgstr ""
+
+#: payment/gateway.php:36
+msgid "Test mode"
+msgstr ""
+
+#: payment/gateway.php:38
+msgid "Enable payment testing with Kaypay Sandbox."
+msgstr ""
+
+#: payment/gateway.php:42
+msgid "Merchant Code"
+msgstr ""
+
+#: payment/gateway.php:44
+msgid "Unique merchant code provided by Kaypay account manager."
+msgstr ""
+
+#: payment/gateway.php:48
+msgid "Secret Key"
+msgstr ""
+
+#: payment/gateway.php:50
+msgid "Secret authentication key provided by Kaypay account manager."
+msgstr ""
+
+#: payment/gateway.php:61
+msgid "Kaypay awaiting payment"
+msgstr ""
+
+#: payment/gateway.php:95
+msgid "Kaypay Redirect URL"
+msgstr ""
+
+#. translators: 1: order id 2: shop name.
+#: sdk/order_create.php:85
+msgid "BNPL for order #%1$s at %2$s"
+msgstr ""
